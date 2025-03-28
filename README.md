@@ -1,14 +1,14 @@
-# Website-hosting-using-Firebase
+# Website-and-Database-hosting-using-Firebase
 
 
 
-ABSTRACT: We have designed an online Home Appliance Shopping Website that allows users to check for various appliances used at home like Refrigerator, Television , Washing Machine, Microwave and purchase them online. The user may browse through these items as per categories. It also contains the new arrivals where the buyer gets deals of the latest appliances available. It also shows the best selling products to know the general crowd purchase. It contains login page for admin as well as users. Registered users can purchase the products directly or by adding it to cart. Here in the Contact us section, we can fill the basic details with the company name and the message we want to post . And all of this gets stores in the database which works real time. We have done this with the help of setting up of firebase. And also used Node js in the process. 
+ABSTRACT: Designed an online ***Home Appliance Shopping Website*** that allows users to check for various appliances used at home like Refrigerator, Television , Washing Machine, Microwave and purchase them online. The user may browse through these items as per categories. It also contains the new arrivals where the buyer gets deals of the latest appliances available. It also shows the best selling products to know the general crowd purchase. It contains login page for admin as well as users. Registered users can purchase the products directly or by adding it to cart. Here in the Contact us section, we can fill the basic details with the company name and the message we want to post . And all of this gets stores in the database which works real time. We have done this with the help of setting up of firebase. And also used Node js in the process. 
 
 
 DESIGN : For the front end , we have designed the website and page layout using HTML and styled it using CSS. And the validation Task has been developed by Javascript.
 
 
-IMPLEMENTATION : For the hosting of the website, we have made the use of Firebase Along with the help of Node js. 
+IMPLEMENTATION : For the hosting of the website, we have made the use of Firebase Along with the help of Node.js. 
 
 
 ABOUT FIREBASE : Firebase Hosting is production-grade web content hosting for developers. With a single command, you can quickly deploy web apps and serve both static and dynamic content to a global CDN (content delivery network). You can also pair Firebase Hosting with Cloud Functions or Cloud Run to build and host microservices on Firebase.
